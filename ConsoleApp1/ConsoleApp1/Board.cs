@@ -1,4 +1,4 @@
-﻿namespace TestProject1
+﻿namespace ConsoleApp1
 {
     public class Board
     {
