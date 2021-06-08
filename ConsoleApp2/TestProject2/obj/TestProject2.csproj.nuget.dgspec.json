@@ -51,6 +51,10 @@
               "target": "Package",
               "version": "[16.7.1, )"
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
             "NSubstitute": {
               "target": "Package",
               "version": "[4.2.2, )"
