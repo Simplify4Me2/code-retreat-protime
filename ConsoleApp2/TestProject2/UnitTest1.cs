@@ -18,6 +18,8 @@ namespace TestProject2
         {
             bool isMyTurn = true;
             isMyTurn.Should().BeTrue();
+            isMyTurn = false;
+            isMyTurn.Should().BeFalse();
         }
     }
 }
