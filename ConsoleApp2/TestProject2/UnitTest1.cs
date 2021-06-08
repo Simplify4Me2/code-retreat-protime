@@ -24,7 +24,7 @@ namespace TestProject2
         [Fact]
         public void Is_Not_Players_Turn()
         {
-            isMyTurn = false;
+            bool isMyTurn = false;
             isMyTurn.Should().BeFalse();
         }
     }
