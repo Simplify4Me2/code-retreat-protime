@@ -14,18 +14,10 @@ namespace TestProject2
         }
         
         [Fact]
-        public void Is_Players_Turn()
+        public void test1()
         {
-            bool isMyTurn = true;
-            isMyTurn.Should().BeTrue();
             
         }
 
-        [Fact]
-        public void Is_Not_Players_Turn()
-        {
-            bool isMyTurn = false;
-            isMyTurn.Should().BeFalse();
-        }
     }
 }
