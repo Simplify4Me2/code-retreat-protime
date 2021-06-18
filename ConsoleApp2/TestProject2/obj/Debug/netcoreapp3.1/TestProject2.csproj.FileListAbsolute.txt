@@ -207,3 +207,9 @@ D:\Projects\code-retreat-protime\ConsoleApp2\TestProject2\obj\Debug\netcoreapp3.
 D:\Projects\code-retreat-protime\ConsoleApp2\TestProject2\obj\Debug\netcoreapp3.1\TestProject2.csproj.CopyComplete
 D:\Projects\code-retreat-protime\ConsoleApp2\TestProject2\obj\Debug\netcoreapp3.1\TestProject2.dll
 D:\Projects\code-retreat-protime\ConsoleApp2\TestProject2\obj\Debug\netcoreapp3.1\TestProject2.pdb
+C:\Users\simon.vereecke\OneDrive - protime.eu\Documents\Protime\Code Retreat\code-retreat-protime\ConsoleApp2\TestProject2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+C:\Users\simon.vereecke\OneDrive - protime.eu\Documents\Protime\Code Retreat\code-retreat-protime\ConsoleApp2\TestProject2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+C:\Users\simon.vereecke\OneDrive - protime.eu\Documents\Protime\Code Retreat\code-retreat-protime\ConsoleApp2\TestProject2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\simon.vereecke\OneDrive - protime.eu\Documents\Protime\Code Retreat\code-retreat-protime\ConsoleApp2\TestProject2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+C:\Users\simon.vereecke\OneDrive - protime.eu\Documents\Protime\Code Retreat\code-retreat-protime\ConsoleApp2\TestProject2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\simon.vereecke\OneDrive - protime.eu\Documents\Protime\Code Retreat\code-retreat-protime\ConsoleApp2\TestProject2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
