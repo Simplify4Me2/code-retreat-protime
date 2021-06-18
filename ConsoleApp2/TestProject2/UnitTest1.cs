@@ -1,5 +1,6 @@
 using FluentAssertions;
 using System;
+using ConsoleApp2;
 using Xunit;
 using Moq;
 
@@ -12,12 +13,15 @@ namespace TestProject2
         {
 
         }
-        
-        [Fact]
-        public void test1()
-        {
-            
-        }
 
+        [Fact]
+        public void PlayerMakesMove_MadeWinningMove_PlayerHasWon()
+        {
+            var player = new Player();
+            
+            var result = player.Move();
+
+            result.Should().BeTrue();
+        }
     }
 }
